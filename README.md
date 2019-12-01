@@ -1,24 +1,18 @@
-# README
+# GRAMMABLE
+### [Visit the deployed site now!](https://grammable-enrique-cerna.herokuapp.com/)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+An Instagram clone; an app which allows users to post pictures and comment on pictures posted by others. 
 
-Things you may want to cover:
+Completed Using:
+- Ruby on Rails
+- Automated Software Tests
+- HTML
+- CSS
+- GitHub (version control)
 
-* Ruby version
+#### User Interface:
+![Image of Root Page](https://github.com/SleepyLoki/grammable/blob/master/app/assets/images/grammable.png)
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The root of the app.
+  
+### [Visit the deployed site now!](https://grammable-enrique-cerna.herokuapp.com/)
